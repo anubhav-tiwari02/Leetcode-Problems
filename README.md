@@ -23,14 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0079-word-search) |
+| [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
 | ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
 <!---LeetCode Topics End-->
