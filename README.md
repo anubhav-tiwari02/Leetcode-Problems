@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0079-word-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Dynamic Programming
 |  |
