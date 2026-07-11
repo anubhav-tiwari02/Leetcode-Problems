@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0079-word-search) |
+| [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 ## Greedy
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
+| [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 ## Binary Search
 |  |
 | ------- |
