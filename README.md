@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
+| [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
