@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 ## String Matching
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
