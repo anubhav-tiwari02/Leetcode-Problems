@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0229-majority-element-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 | [2784-check-if-array-is-good](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
