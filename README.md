@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 | [2784-check-if-array-is-good](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 ## Backtracking
