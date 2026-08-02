@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [0877-stone-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0877-stone-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1383-maximum-performance-of-a-team](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [0877-stone-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
