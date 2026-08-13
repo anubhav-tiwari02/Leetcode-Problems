@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0079-word-search) |
 ## Tree
 |  |
