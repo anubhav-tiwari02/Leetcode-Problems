@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0062-unique-paths) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
