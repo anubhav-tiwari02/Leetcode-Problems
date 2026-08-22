@@ -270,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
