@@ -273,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0178-rank-scores) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
