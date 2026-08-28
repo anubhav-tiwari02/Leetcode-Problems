@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0178-rank-scores) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
