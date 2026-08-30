@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0148-sort-list) |
 | [1472-design-browser-history](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1472-design-browser-history) |
@@ -300,10 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
