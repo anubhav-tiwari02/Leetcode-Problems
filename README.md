@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 | [2784-check-if-array-is-good](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
