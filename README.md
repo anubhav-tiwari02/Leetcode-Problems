@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [0836-rectangle-overlap](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1406-stone-game-iii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
