@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
 | [2784-check-if-array-is-good](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1472-design-browser-history) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Merge Sort
 |  |
 | ------- |
