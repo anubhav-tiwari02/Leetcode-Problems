@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2063-vowels-of-all-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2512-reward-top-k-students](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2512-reward-top-k-students) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [1472-design-browser-history](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
