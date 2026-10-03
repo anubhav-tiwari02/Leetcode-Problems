@@ -342,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
