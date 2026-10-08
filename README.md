@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2063-vowels-of-all-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## K-D Tree
 |  |
