@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [2063-vowels-of-all-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
