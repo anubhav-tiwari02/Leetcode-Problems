@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1472-design-browser-history) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhav-tiwari02/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Merge Sort
 |  |
